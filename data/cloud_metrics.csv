@@ -1,0 +1,5 @@
+timestamp,instance_id,cpu_util,memory_util,disk_util,network_in,network_out,response_time_ms
+2023-10-01 00:00:00,i-1234567890abcdef0,45,60,70,120,80,150
+2023-10-01 01:00:00,i-1234567890abcdef0,50,62,71,130,85,155
+2023-10-01 00:00:00,i-0987654321fedcba0,30,55,65,90,60,200
+2023-10-01 01:00:00,i-0987654321fedcba0,35,57,66,95,65,210
